@@ -1,0 +1,5 @@
+Ivanov Ivan Ivanich F 15.15.1976 4 5 3 1923
+Mambekova Karla Karlmarksovich M 12.12.2002 5 5 5 1993
+Ursulova Karla Karlmarksovich F 12.12.2002 5 5 5 1993
+Ignetova Karla Karlmarksovich M 12.12.2002 - - - 1993
+Sembekova Karla Karlmarksovich M 12.12.2002 3 2 1 1993
